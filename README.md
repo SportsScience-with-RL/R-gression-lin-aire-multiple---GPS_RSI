@@ -2,6 +2,7 @@
 
 ## Présentation
 
+Essayons de trouver quelles données GPS de match peuvent expliquer ou du moins avoir un lien avec les variations de score du RSI.
 Pour cela nous allons réaliser une régression linéaire multiple (expliquer une donnée quantitative par des données quantitatives).
 Le test de saut RSI est réalisé le premier jour de la semaine suivant le match, nous allons procédér à une première manipulation des données (plusieurs bases de données à croiser) afin de garder les données les plus consistantes (ne pas dépasser 3 jours entre le match et le saut).
 
