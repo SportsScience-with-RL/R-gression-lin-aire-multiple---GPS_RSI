@@ -23,4 +23,4 @@ Pour être plus précis et espérer avoir un modèle plus performant, nous pourr
 
 Nous pourrions analyser chaque joueur avec suffisamment de données individuelles ou encore par groupes (avants et arrières).
 
-Enfin, nous pourrions nous intéresser aux composantes du RSI dans le modèle de régressions multiple. Car ce score est un ratio ou un produit (selon le calcul, https://www.scienceforsport.com/reactive-strength-index/). Il serait donc plus intéressant de savoir quelle composante peut être le mieux expliquée par les données de match.
+Enfin, nous pourrions nous intéresser aux composantes du RSI dans le modèle de régression multiple. Car ce score est un ratio ou un produit (selon le calcul, https://www.scienceforsport.com/reactive-strength-index/). Il serait donc plus intéressant de savoir quelle composante peut être le mieux expliquée par les données de match.
